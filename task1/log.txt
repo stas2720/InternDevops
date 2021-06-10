@@ -1,0 +1,11 @@
+commit d3027663044cba668d1f0fe03788cd81abb6b26e
+Author: Stas <stas2720@gmail.com>
+Date:   Thu Jun 10 11:16:00 2021 +0300
+
+    add status.txt
+
+commit 6ef40357682eb728e1d4b3e14b9dde03f704809b
+Author: Stas <stas2720@gmail.com>
+Date:   Thu Jun 10 11:11:33 2021 +0300
+
+    add .gitignore
